@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Список товаров</string>
+    <string name="db_updated">Успешно обновлено</string>
+    <string name="db_good_deleted">Товар удален</string>
+    <string name="fill_all_fields">Пожалуйста, заполните все поля</string>
+    <string name="action_create_good">Добавить</string>
+    <string name="count">Количество:</string>
+    <string name="price">Цена:</string>
+    <string name="count_lbl">Количество</string>
+    <string name="price_lbl">Цена</string>
+    <string name="description_lbl">Описание</string>
+    <string name="name_lbl">Название</string>
+    <string name="choose_action">Выберите действие над товаром</string>
+    <string name="update_or_delete">Отменить удаление невозможно</string>
+    <string name="update">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="good_added_successfully">Товар добавлен</string>
+    <string name="empty_list_message">Список товаров пуст\n\nМожно добавить товар с помощью большой круглой кнопки внизу экрана)</string>
+</resources>

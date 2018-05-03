@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Goods list</string>
+    <string name="db_updated">Updated successfully</string>
+    <string name="db_good_deleted">Good deleted successfully</string>
+    <string name="fill_all_fields">Please, fill all fields</string>
+    <string name="action_create_good">Create</string>
+    <string name="count">Count:</string>
+    <string name="price">Price:</string>
+    <string name="count_lbl">Count</string>
+    <string name="price_lbl">Price</string>
+    <string name="description_lbl">Description</string>
+    <string name="name_lbl">Name</string>
+    <string name="choose_action">Choose action</string>
+    <string name="update_or_delete">Update or delete good?</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="good_added_successfully">Good added successfully</string>
+    <string name="empty_list_message">No goods. You can add via big red button)</string>
+</resources>
